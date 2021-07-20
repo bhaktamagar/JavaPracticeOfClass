@@ -1,10 +1,9 @@
-package Day6;
+package Bhakta1;
 
 public class IdentifierDemo1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Hello...git");
 	}
 
 }
